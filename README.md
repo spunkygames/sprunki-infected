@@ -1,6 +1,6 @@
 # Sprunki Infected
 
-Sprunki Infected is a free online music game with a unique twist: combine quirky infected characters to create contagious beats and groovy melodies. Experiment, evolve your sound, and share your infectious creations. Play Sprunki Infected Now: [https://spunky.games/sprunki-infected](https://spunky.games/sprunki-infected)
+Sprunki Infected is a free online music game with a unique twist: combine quirky infected characters to create contagious beats and groovy melodies. Experiment, evolve your sound, and share your infectious creations. Play Sprunki Infected Now: [sprunki-infected](https://spunky.games/sprunki-infected)
 
 ---
 
@@ -21,7 +21,7 @@ Sprunki Infected is a browser-based music game developed by Spunky Games.  It of
 
 ## How to Play Sprunki Infected
 
-1. **Access the Game:** Go to [https://spunky.games/sprunki-infected](https://spunky.games/sprunki-infected) to play directly in your browser.
+1. **Access the Game:** Go to [sprunki-infected](https://spunky.games/sprunki-infected) to play directly in your browser.
 2. **Select and Combine Characters:** Choose from a variety of infected Sprunki characters and combine them on the stage. Each character represents a unique sound or musical element.
 3. **Experiment with Combinations:**  Different combinations of characters will produce different musical results. Experiment to discover interesting rhythms and melodies.
 4. **Evolve Your Sound:**  As you play, you might unlock new characters or evolve existing ones, adding depth and complexity to your musical creations.
@@ -57,10 +57,10 @@ Sprunki Infected is a browser-based music game developed by Spunky Games.  It of
 5. **Can I save my music?** Saving mechanisms might vary (local saves or potentially online accounts). Refer to the game for specifics.
 6. **Does Sprunki Infected have different levels or stages?**  Progression may involve unlocking new characters or evolving existing ones; check the game for details.
 7. **What was the inspiration for Sprunki Infected?** It takes inspiration from music creation and character combination games. Fans of [Sprunki InCredibox](https://sprunki.es/) might enjoy this game as well.
-8. **Where can I find more information about Spunky Games?**  Visit the official Spunky Games website: [https://spunky.games](https://spunky.games). Also, check out the [ESprunki Game](https://esprunki.com/) by Spunky Games.
+8. **Where can I find more information about Spunky Games?**  Visit the official Spunky Games website: [spunky games](https://spunky.games). Also, check out the [ESprunki Game](https://esprunki.com/) by Spunky Games.
 9. **Is there a mobile app version of Sprunki Infected?** While a standalone app might not exist, the game should be playable on most mobile browsers.
 10. **How can I contact the developers of Sprunki Infected?**  Look for contact information on the game's website or related Spunky Games resources.
 
 ---
 
-Ready to unleash your infectious beats? Play Sprunki Infected now! [https://spunky.games/sprunki-infected](https://spunky.games/sprunki-infected)
+Ready to unleash your infectious beats? Play Sprunki Infected now! [sprunki-infected](https://spunky.games/sprunki-infected)
