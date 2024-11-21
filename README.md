@@ -21,7 +21,7 @@ Sprunki Infected is a browser-based music game developed by Spunky Games.  It of
 
 ## How to Play Sprunki Infected
 
-1. **Access the Game:** Go to [sprunki-infected](https://spunky.games/sprunki-infected) to play directly in your browser.
+1. **Access the Game:** Go to sprunki-infected to play directly in your browser.
 2. **Select and Combine Characters:** Choose from a variety of infected Sprunki characters and combine them on the stage. Each character represents a unique sound or musical element.
 3. **Experiment with Combinations:**  Different combinations of characters will produce different musical results. Experiment to discover interesting rhythms and melodies.
 4. **Evolve Your Sound:**  As you play, you might unlock new characters or evolve existing ones, adding depth and complexity to your musical creations.
@@ -63,4 +63,4 @@ Sprunki Infected is a browser-based music game developed by Spunky Games.  It of
 
 ---
 
-Ready to unleash your infectious beats? Play Sprunki Infected now! [sprunki-infected](https://spunky.games/sprunki-infected)
+Ready to unleash your infectious beats? Play Sprunki Infected now!
